@@ -1,0 +1,17 @@
+{
+    "name": "lee/destiny",
+    "description": "Mr.Lee is Mr.sandMan",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoLee",
+            "email": "274389206@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Destiny\\Test": "src/Destiny/Test"}
+    }
+}
