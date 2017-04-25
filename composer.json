@@ -11,6 +11,9 @@
     ],
     "minimum-stability": "dev",
     "require": {},
+    "require-dev":{
+        "xiaoLee1993/destiny":"dev-master"
+    },
     "autoload": {
         "psr-4": {"Destiny\\Test": "src/Destiny/Test"}
     }
